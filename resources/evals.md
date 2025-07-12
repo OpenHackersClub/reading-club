@@ -8,6 +8,7 @@ A curated collection of materials for understanding and implementing evaluation 
 
 - [ ] [Opik by Comet ML](https://github.com/comet-ml/opik) - Open-source evaluation framework for LLMs
 - [ ] [Phoenix by Arize AI](https://github.com/Arize-ai/phoenix) - LLM observability and evaluation
+  - [The Definitive Guide to LLM Evaluation](https://arize.com/llm-evaluation) - Arize AI guide
 - [ ] [Langfuse](https://langfuse.com/) - Open source LLM engineering platform for tracing, evaluations, and observability
 
 ## Research Papers & Academic Resources
@@ -15,3 +16,6 @@ A curated collection of materials for understanding and implementing evaluation 
 ### Survey Papers
 
 - [ ] [Survey on Evaluaton of LLM-based Agents](https://arxiv.org/pdf/2503.16416)
+
+### [Bonus] Course on Evals
+- [ ] [Evaluating AI agents](https://learn.deeplearning.ai/courses/evaluating-ai-agents) - Free course and code example on Agent evaluation 
